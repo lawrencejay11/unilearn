@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935499693873",
+    "firebase_url": "https://unilearn-57235.firebaseio.com",
+    "project_id": "unilearn-57235",
+    "storage_bucket": "unilearn-57235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935499693873:android:7ceb9f6791542faea5ba10",
+        "android_client_info": {
+          "package_name": "com.example.unilearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935499693873-nensm67bce3ri0td32p85h1ihbmgsl2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa3ogYJjHS3LNUWzWXWRylZvvYiryrRBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935499693873-nensm67bce3ri0td32p85h1ihbmgsl2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
