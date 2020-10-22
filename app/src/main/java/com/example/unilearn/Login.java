@@ -40,14 +40,5 @@ public class Login extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
-        logIn = findViewById(R.id.btnSignIn);
-
-        logIn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-            }
-        });
     }
 }
